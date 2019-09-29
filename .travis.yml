@@ -1,7 +1,6 @@
 
 language: java
-script: mvn test
+intall: true
+script: mvn install
 
-jdk:
- - oraclejdk8
- - oraclejdk9
+
