@@ -1,1 +1,1 @@
-# CatalogKata
+# Catalog
