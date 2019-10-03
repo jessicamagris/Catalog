@@ -1,6 +1,6 @@
 
 language: java
-intall: true
+install: true
 script: mvn install
 
 
